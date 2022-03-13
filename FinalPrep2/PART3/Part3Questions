@@ -1,0 +1,38 @@
+1. Explain the significance of a method’s signature in method overloading.
+	As long as the signatures are different, methods are different, which allows
+	method overloading (different sifnatures with different parameters)
+	
+	In methods overloading, a method has the same signature but with different parameters, 
+	which allows the same signature to have different implementations
+
+2. What is the purpose of the Java Virtual Machine?
+	The Java Virtual Machine (JVM) is the runtime engine of the Java Platform, 
+	which allows any program written in Java or other language compiled into 
+	Java bytecode to run on any computer that has a native JVM.
+
+3. Explain the major benefit of Inheritance in the context of Polymorphism?
+	A subclass's data structure is also it superclass's data structure, 
+	it allows Polymorphism to have single object with multiple data structures
+
+4. Explain Java’s approach to the concept of Multiple Inheritance?
+	A class can only inherit from one superclass, but its superclass can also
+	inherit from another superclass.
+
+5. What is the benefit of utilizing Exception Handling in the context of File IO?
+	Exception handling enables a program to continue its normal execution when 
+	encountering File IO errors including FileNotFound, DirectoryNotFound, and so on.
+
+6. How does Java’s use of static typing benefit the Java programmer?
+	An variable's data type is declared when it is created and cannot be changed, 
+	so Java programmer will not be confused by the data type of an variable
+
+7. How many constructors can a class have?
+	As many as the programmer wants, with different parameters.
+
+8. What is an Interface in Java and how does it support Polymorphism? (2 points)
+	An interface is a class-like construct for defining common operations for objects.
+	When a interface is implemented, it also introduces the interface's data structure,
+	allowing the data type of an interface referring to another object.
+	
+	When a class implements an interface, it also gets the data type of this interface.
+	This allows the data type of an interface referring to other objects.

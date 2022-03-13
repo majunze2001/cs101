@@ -1,0 +1,21 @@
+List and briefly explain the four foundations of Object-Oriented Programming.
+	Abstraction: model anything
+	Data encapsulation: single identifier, complex object
+	Inheritance: code reuse
+	Polymorphism: single object, multiple data structures
+	
+How many abstract superclasses may a concrete subclass have?
+	Only 1, but the superclass it inherits from may have infinite superclasses
+	
+What three types of methods may an interface contain?
+	Abstract, static, default
+	
+What is the purpose of Method Overriding?
+	Achieving its unique implementation of a method of a subclass, different from the implementation in the superclass
+	
+In the context of an array, explain a map data structure.
+	 In an array, the index of an object is an integer;
+	 while in a map, the index of an object could be other object.
+	
+
+	

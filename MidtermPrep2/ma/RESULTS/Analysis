@@ -1,0 +1,16 @@
+Imperial Network Maleware Detector Validation Results
+
+Networks Tested: 210
+
+Total Positive Tests: 115
+Total Negative Tests: 95
+	Positive %: 54.76
+	Negative %: 45.24
+True Positive Tests: 51
+True Negative Tests: 42
+	Detector Correct %: 93 out of 210... 44.29%
+False Positive Tests: 53
+False Negative Tests: 64
+	Detector Correct %: 117 out of 210... 55.71%
+
+_____________________________Analysis Prepared By Jeff Ma
